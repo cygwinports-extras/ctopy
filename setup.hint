@@ -1,0 +1,7 @@
+category: Devel Python
+requires: python
+sdesc: "Translates C to Python"
+ldesc: "ctopy automates the parts of translating C source code to Python 
+source code that are difficult for a human but easy for a machine. This 
+allows a human programmer to concentrate on the nontrivial parts of the 
+translation."
